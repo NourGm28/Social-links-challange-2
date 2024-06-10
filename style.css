@@ -215,5 +215,10 @@ body{
         color: white;
         font-weight: 600;
     }
-
+    .profile .container .links li:hover{
+        background-color: var(--Green);
+    }
+}
+.profile .container .links li:hover{
+    background-color: var(--Green);
 }
