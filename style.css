@@ -45,33 +45,11 @@ body{
     text-align: center;
     color: white;
 }
-.profile .attribution{
-    text-align: center;
-    color: white;
-    position: absolute;
-    right: 31%;
-    top: 87%;
 }
-.profile .attribution a{
-    text-align: center;
-    color:var(--Green);
-    text-decoration: none;
-    cursor: pointer;
-}}
 @media (max-width:769px) {
     .profile{
         padding: 5% 20px;
         text-align: center;
-    }
-    .profile .attribution{
-        text-align: center;
-        color: white;
-    }
-    .profile .attribution a{
-        text-align: center;
-        color:var(--Green);
-        text-decoration: none;
-        cursor: pointer;
     }
 }
 @media (min-width:780px){
