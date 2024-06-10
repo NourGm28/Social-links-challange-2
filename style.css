@@ -49,8 +49,8 @@ body{
     text-align: center;
     color: white;
     position: absolute;
-    right: 44%;
-    top: 80%;
+    right: 31%;
+    top: 87%;
 }
 .profile .attribution a{
     text-align: center;
@@ -78,7 +78,7 @@ body{
 .profile .container{
     background-color: var(--Dark_Grey);
     padding: var(--padding-20);
-    max-width: 45%;
+    max-width: 60%;
     transform: translate(50%, -50%);
     border-radius: 20px;
     -webkit-border-radius: 20px;
@@ -140,7 +140,7 @@ body{
 .profile .container .description p{
     padding: var(--padding-10);
     font-weight: 400;
-    font-size: 18px;
+    font-size: 14px;
 }}
 @media (max-width:769px){
     .profile .container .description{
